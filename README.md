@@ -4,3 +4,4 @@ Theme: Calculating average fundamental frequencies of sound (F0) using VEPRAD so
 Završni rad
 Tema: Izračun prosječnih osnovnih frekvencija zvučnih glasova koristeći zvučne zapise iz VEPRAD baze podataka
 
+*SPTK - Speech Signal Processing Toolkit
